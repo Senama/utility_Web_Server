@@ -1,0 +1,14 @@
+{
+  "name": "webserver_lab",
+  "version": "1.0.0",
+  "description": "Build a utilitiy server using multiple different routes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Let's go!"
+  },
+  "author": "Sergius",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
